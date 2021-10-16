@@ -15,26 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7182
-Fork on GitHub
-1379
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CodeGream🎨&fontSize=70)
 
-back to edit
+<div align=center>
 
-copy-markdown
+## 🌹 t e c h 🌹
 
-download markdown
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
+[![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)]
+[![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)]
+<br>
 
-download backup
+[![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)]
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)]
+<br>
 
-preview
+## 💫 m e 
+[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)]
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)]
+<br><br><br>
+  
 <h1 align="center">Hi 👋, I'm Jong Kim</h1>
 <h3 align="center">A passionate frontend developer from Sydney, Australia</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royalottoc" alt="royalottoc" /></a> </p>
 
 - 🔭 I’m currently working on [Youtube-clone](https://github.com/RoyalOttoc/youtube_clone)
 
@@ -51,6 +54,3 @@ preview
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royalottoc&show_icons=true&locale=en&layout=compact" alt="royalottoc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royalottoc&show_icons=true&locale=en" alt="royalottoc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royalottoc&" alt="royalottoc" /></p>
-
