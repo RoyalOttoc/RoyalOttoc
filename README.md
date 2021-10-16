@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jong Kim</h1>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Happy Coding🎨&fontSize=70)
 
 <div align=center>
-
+<h1 align="center">Hi 👋, I'm Jong Kim</h1>
 <h3 align="center">A passionate frontend developer from Sydney, Australia</h3>
 
 - 🔭 I’m currently working on [Youtube-clone](https://github.com/RoyalOttoc/youtube_clone)
