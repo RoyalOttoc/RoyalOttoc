@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **jong.kim8706@gmail.com**
   
-<br><br>
+<br>
   
 ## ✨ t e c h ✨
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ## 💫 m e 
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)]
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)]
-<br><br><br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royalottoc&show_icons=true&locale=en&layout=compact" alt="royalottoc" /></p>
 
