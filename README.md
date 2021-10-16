@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)]
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royalottoc&show_icons=true&locale=en&layout=compact" alt="royalottoc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoyalOttoc&show_icons=true&locale=en&layout=compact" alt="royalottoc" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=royalottoc&show_icons=true&locale=en" alt="royalottoc" /></p>
