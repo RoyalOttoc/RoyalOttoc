@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jong Kim</h1>
 <h3 align="center">A passionate frontend developer from Sydney, Australia</h3>
 
-- 🔭 I’m currently working on [Youtube-clone](https://github.com/RoyalOttoc/youtube_clone)
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on [Javascript Projects](https://github.com/RoyalOttoc/Js_projects)
 
 - 💬 Ask me about **Javascript and React**
 
