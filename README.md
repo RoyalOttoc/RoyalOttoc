@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 <h1 align="center">Hi 👋, I'm Jong Kim</h1>
-<h3 align="center">A passionate frontend developer from Sydney, Australia</h3>
+<h3 align="center">A passionate Software Developer from Sydney, Australia</h3>
 
 - 🔭 I’m currently working on [React Projects](https://github.com/RoyalOttoc/react-projects)
 
